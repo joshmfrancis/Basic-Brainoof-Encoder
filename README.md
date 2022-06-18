@@ -2,7 +2,7 @@ Brainoof, or its more harsh name, Brainfuck, is a Turing complete, stack-based, 
 
 Brainoof is one of the OG esoteric programming languages as it inspired many other esolangs. It is a really cool language and is quite challenging to code in! 
 
-Due to the complexity of creating a program in Brainoof, I created an encoder in Python that allows you to input any string of text (or length of characters) and output a compilable Brainoof program! Feel free to test it out for yourself in the compiler I link below! 
+Due to the complexity of creating a program in Brainoof, I created an encoder in Python that allows you to input any string of text or numbers and output a compilable Brainoof program! Feel free to test it out for yourself in the compiler I link below! 
 
 Here is a quick test of the program with extra code to be able to see the operations on the list "ascii":
 
