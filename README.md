@@ -2,11 +2,13 @@ Brainoof, or its more harsh name, Brainfuck, is a Turing complete, stack-based, 
 
 Brainoof is one of the OG esoteric programming languages as it inspired many other esolangs. It is a really cool language and is quite challenging to code in! 
 
-Due to the complexity of creating a program in Brainoof, I created an encoder in Python that allows you to input any string of text or numbers and output a compilable Brainoof program! Feel free to test it out for yourself in the compiler I link below! 
+Due to the complexity of creating a program in Brainoof for aspiring esoteric programmers, I created an encoder in Python that allows you to input any string of text or numbers and output a compilable Brainoof program! Feel free to test it out for yourself in the compiler I link below! 
 
 Here is a quick test of the program with added code to be able to see the operations on the list "ascii":
 
 <img width="988" alt="Screen Shot 2022-06-18 at 1 55 34 AM" src="https://user-images.githubusercontent.com/104415326/174427977-4c013787-6398-47e1-84be-32d361b061d4.png">
+
+Before you ask, yes my IDE is in Comic Sans...
 
 Documentation I used to create my program: 
  - https://www.delftstack.com/howto/python/convert-string-to-ascii-python/
