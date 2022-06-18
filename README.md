@@ -4,7 +4,7 @@ Brainoof is one of the OG esoteric programming languages as it inspired many oth
 
 Due to the complexity of creating a program in Brainoof, I created an encoder in Python that allows you to input any string of text or numbers and output a compilable Brainoof program! Feel free to test it out for yourself in the compiler I link below! 
 
-Here is a quick test of the program with extra code to be able to see the operations on the list "ascii":
+Here is a quick test of the program with added code to be able to see the operations on the list "ascii":
 
 <img width="988" alt="Screen Shot 2022-06-18 at 1 55 34 AM" src="https://user-images.githubusercontent.com/104415326/174427977-4c013787-6398-47e1-84be-32d361b061d4.png">
 
