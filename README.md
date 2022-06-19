@@ -1,4 +1,4 @@
-Brainoof, or its more harsh name, Brainfuck, is a Turing complete, stack-based, esoteric programming language made to utterly confuse the programmer using it. It was created by Urban Müller in 1993 and consists of only 8 operators.
+Brainoof is a Turing complete, stack-based, esoteric programming language made to utterly confuse the programmer using it. It was created by Urban Müller in 1993 and consists of only 8 operators.
 
 Brainoof is one of the OG esoteric programming languages as it inspired many other esolangs. It is a really cool language and is quite challenging to code in at first! 
 
